@@ -1,4 +1,4 @@
-const supportedList = ['en', 'uk'];
+const supportedList = ['en', 'uk', 'de'];
 
 
 const browserLangList = navigator.languages.map(lang => lang.split('-')[0]);
